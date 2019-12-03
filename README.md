@@ -1,4 +1,4 @@
-# -
+# 任务管理系统-概述
 Javaweb(JSP)+Mysql实现的任务管理系统，实现数据库联动增删改查<br>
 基于Tomcat7和mysql8<br>
 使用JDBC驱动进行数据库连接<br>
