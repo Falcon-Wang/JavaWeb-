@@ -12,3 +12,4 @@ addtask.jsp：添加新任务后台处理页面<br>
 taskUpdate.jsp：修改任务信息页面<br>
 updateSave.jsp：修改任务信息后台处理页面<br>
 deleteTask.jsp：删除任务页面（协同JS弹出确认框）<br>
+inter.sql：数据库文件，使用Navicat导出，数据库名称为inter
